@@ -1,8 +1,8 @@
 # The GNU C Library for Intel(R) VTune(TM) Amplifier Perf tool
 
-This repository contains [GNU C Library](https://www.gnu.org/software/libc/) versions required for building Intel(R) VTune(TM) Amplifier [Perf tool](https://github.com/intel/vtune-perf-v4.3.1) employed by [Intel(R) VTune(TM) Amplifier](https://software.intel.com/en-us/vtune). See the Intel(R) VTune(TM) Amplifier documentation for more [information](https://software.intel.com/en-us/vtune-amplifier-help-driverless-event-based-sampling-collection) regarding Linux* Perf based analysis capabilities and configuration.
+This repository contains GNU C Library [sources](https://www.gnu.org/software/libc/sources.html) required for building Intel(R) VTune(TM) Amplifier [Perf tool](https://github.com/intel/vtune-perf-v4.3.1) employed by [Intel(R) VTune(TM) Amplifier](https://software.intel.com/en-us/vtune). See the Intel(R) VTune(TM) Amplifier documentation for more [information](https://software.intel.com/en-us/vtune-amplifier-help-driverless-event-based-sampling-collection) regarding Linux* Perf based analysis capabilities and configuration.
 
-The [GNU C Library project](https://www.gnu.org/software/libc/) provides the core libraries for the GNU system and GNU/Linux systems, as well as many other systems that use Linux as the kernel. These libraries provide critical APIs including ISO C11, POSIX.1-2008, BSD, OS-specific APIs and more. These APIs include such foundational facilities as open, read, write, malloc, printf, getaddrinfo, dlopen, pthread_create, crypt, login, exit and more.
+The GNU C Library [project](https://www.gnu.org/software/libc/) provides the core libraries for the GNU system and GNU/Linux* systems, as well as many other systems that use Linux* as the kernel. These libraries provide critical APIs including ISO C11, POSIX.1-2008, BSD, OS-specific APIs and more. These APIs include such foundational facilities as open, read, write, malloc, printf, getaddrinfo, dlopen, pthread_create, crypt, login, exit and more.
 
 ## Technical support
 
@@ -18,7 +18,7 @@ The master branch contains this README.md file. The release branches are named l
 
 ## Contribution
 
-Consider this [information](https://www.gnu.org/software/libc/involved.html) to get involved.
+Consider [this](https://www.gnu.org/software/libc/involved.html) to get involved.
 
 ## Team contacts
 
